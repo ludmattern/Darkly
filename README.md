@@ -13,11 +13,11 @@ Short index of documented findings with links to each write‑up. All proof arti
 * **SQL Injection (member)** → [README](SQL%20Injection%20member/Ressources/README.md)
 * **SQL Injection (searchimg)** → [README](SQL%20Injection%20searchimg/Ressources/README.md)
 * **Directory listing** → [README](Directory%20listing/Ressources/README.md)
+* **Robots.txt Disclosure → Admin Compromise** → [README](Robot.txt%20dislosure/Ressources/README.md)
 
 ## Remaining to document
 
 * XSS (basic)
 * XSS (advanced)
 * Spoof (curl)
-* Admin (htpasswd)
 * Bruteforce (member)
