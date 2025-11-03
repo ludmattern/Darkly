@@ -11,10 +11,10 @@ Short index of documented findings with links to each write‑up. All proof arti
 * **Parameter Tampering** → [README](Parameter%20Tampering/Ressources/README.md)
 * **Insecure File Upload** → [README](Insecure%20file%20upload/Ressources/README.md)
 * **SQL Injection (member)** → [README](SQL%20Injection%20member/Ressources/README.md)
+* **SQL Injection (searchimg)** → [README](SQL%20Injection%20searchimg/Ressources/README.md)
 
 ## Remaining to document
 
-* SQL injection (advanced)
 * XSS (basic)
 * XSS (advanced)
 * Spoof (curl)
