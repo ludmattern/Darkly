@@ -9,6 +9,7 @@ Short index of documented findings with links to each write‑up. All proof arti
 * **Open Redirect** → [README](Open%20Redirect/Ressources/README.md)
 * **Path Traversal / Local File Inclusion (LFI)** → [README](Path%20Traversal%20Local%20File%20Inclusion%20%28LFI%29/Ressources/README.md)
 * **Parameter Tampering** → [README](Parameter%20Tampering/Ressources/README.md)
+* **Insecure File Upload** → [README](Insecure%20file%20upload/Ressources/README.md)
 
 ## Remaining to document
 
@@ -19,7 +20,6 @@ Short index of documented findings with links to each write‑up. All proof arti
 * Spoof (curl)
 * Admin (htpasswd)
 * Bruteforce (member)
-* File upload
 * Guess (hidden file)
 
 > Mapping to the subject list: `Recover` → *Hidden Field Tampering*; `Include` → *Path Traversal/LFI*; `Cookies` → *Insecure Admin Cookie*; `Redirect` → *Open Redirect*.
