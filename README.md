@@ -12,6 +12,7 @@ Short index of documented findings with links to each write‑up. All proof arti
 * **Insecure File Upload** → [README](Insecure%20file%20upload/Ressources/README.md)
 * **SQL Injection (member)** → [README](SQL%20Injection%20member/Ressources/README.md)
 * **SQL Injection (searchimg)** → [README](SQL%20Injection%20searchimg/Ressources/README.md)
+* **Directory listing** → [README](Directory%20listing/Ressources/README.md)
 
 ## Remaining to document
 
@@ -20,4 +21,3 @@ Short index of documented findings with links to each write‑up. All proof arti
 * Spoof (curl)
 * Admin (htpasswd)
 * Bruteforce (member)
-* Guess (hidden file)
