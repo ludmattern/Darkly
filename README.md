@@ -1,2 +1,25 @@
-# Darkly
-test
+# Darkly — Vulnerabilities
+
+Short index of documented findings with links to each write‑up. All proof artifacts are text‑only under each `Ressources/` folder.
+
+## Documented findings
+
+* **Hidden Field Tampering** → [README](Hidden%20field%20tampering/Ressources/README.md)
+* **Insecure Admin Cookie** → [README](Insecure%20Admin%20Cookie/Ressources/README.md)
+* **Open Redirect** → [README](Open%20Redirect/Ressources/README.md)
+* **Path Traversal / Local File Inclusion (LFI)** → [README](Path%20Traversal%20Local%20File%20Inclusion%20%28LFI%29/Ressources/README.md)
+
+## Remaining to document
+
+* SQL injection (basic)
+* SQL injection (advanced)
+* XSS (basic)
+* XSS (advanced)
+* Spoof (curl)
+* Admin (htpasswd)
+* Bruteforce (member)
+* File upload
+* Guess (hidden file)
+* Survey
+
+> Mapping to the subject list: `Recover` → *Hidden Field Tampering*; `Include` → *Path Traversal/LFI*; `Cookies` → *Insecure Admin Cookie*; `Redirect` → *Open Redirect*.
