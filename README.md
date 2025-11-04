@@ -1,6 +1,6 @@
 # Darkly — Vulnerabilities
 
-Short index of documented findings with links to each write‑up. All proof artifacts are text‑only under each `Ressources/` folder.
+Short index of documented findings with links to each write‑up. All proofs are under each `Ressources/` folder.
 
 ## Documented findings
 
