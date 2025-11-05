@@ -81,3 +81,7 @@
 * OWASP Cheat Sheet: **XSS Prevention**; **Untrusted Data in HTML Attributes**
 * CWE‑79: **Cross‑Site Scripting (XSS)**
 * CWE‑829: **Inclusion of Functionality from Untrusted Control Sphere**
+
+--- 
+## See also
+**index** → [here](/README.md)

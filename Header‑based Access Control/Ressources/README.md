@@ -79,3 +79,7 @@ f2a29020ef3132e01dd61df97fd33ec8d7fcd1388cc9601e7db691d17d4d6188
 * OWASP Top 10 **A01:2021 – Broken Access Control**
 * CWE‑807: **Reliance on Untrusted Inputs in a Security Decision**
 * CWE‑602: **Client‑Side Enforcement of Server‑Side Security**
+
+--- 
+## See also
+**index** → [here](/README.md)

@@ -73,3 +73,7 @@
 
 * OWASP: Parameter Tampering; Forgot Password Cheat Sheet.
 * CWE‑642: External Control of Critical State Data.
+
+--- 
+## See also
+**index** → [here](/README.md)

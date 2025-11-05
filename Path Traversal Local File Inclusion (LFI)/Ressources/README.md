@@ -91,3 +91,7 @@ b12c4b2cb8094750ae121a676269aa9e2872d07c06e429d25a63196ec1c8c1d0
 * CWE‑22: **Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')**
 * CWE‑98: **Improper Control of Filename for Include/Require Statement in PHP**
 * CWE‑73: **External Control of File Name or Path**
+
+--- 
+## See also
+**index** → [here](/README.md)

@@ -103,3 +103,7 @@ d19b4823e0d5600ceed56d5e896ef328d7a2b9e7ac7e80f4fcdb9b10bcb3e7ff
 * CWE‑548: **Information Exposure Through Directory Listing**
 * CWE‑200: **Exposure of Sensitive Information to an Unauthorized Actor**
 * CWE‑759 / CWE‑328: **One‑Way Hash Without a Salt / Use of Weak Hash**
+
+--- 
+## See also
+**index** → [here](/README.md)

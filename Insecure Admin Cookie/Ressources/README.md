@@ -83,3 +83,7 @@ df2eb4ba34ed059a1e3e89ff4dfc13445f104a1a52295214def1c4fb1693a5c3
 * CWE‑565: **Reliance on Cookies without Validation and Integrity Checking**
 * CWE‑327: **Use of a Broken or Risky Cryptographic Algorithm (MD5)**
 * CWE‑285/287: **Improper Authorization/Authentication** (context)
+
+--- 
+## See also
+**index** → [here](/README.md)

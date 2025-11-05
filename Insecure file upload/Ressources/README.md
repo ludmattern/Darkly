@@ -68,3 +68,7 @@ curl -i 'http://127.0.0.1:8080/?page=upload' \
 * OWASP Cheat Sheet: **File Upload**
 * CWE‑434: **Unrestricted Upload of File with Dangerous Type**
 * CWE‑20: **Improper Input Validation**
+
+--- 
+## See also
+**index** → [here](/README.md)

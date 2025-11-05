@@ -112,3 +112,7 @@ user_id,first_name,last_name,town,country,planet,Commentaire,countersign
 * OWASP Cheat Sheet: **SQL Injection Prevention**
 * CWE‑89: **SQL Injection**
 * (Context) **MariaDB/MySQL** functions: `GROUP_CONCAT`, `CONCAT_WS`, `information_schema.*`
+
+--- 
+## See also
+**index** → [here](/README.md)

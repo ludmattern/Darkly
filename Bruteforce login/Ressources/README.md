@@ -106,3 +106,7 @@ b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2
 * CWE‑307: **Improper Restriction of Excessive Authentication Attempts**
 * CWE‑521: **Weak Password Requirements**
 * SecLists wordlists: `Passwords/Common-Credentials/10-million-password-list-top-10000.txt`
+
+--- 
+## See also
+**index** → [here](/README.md)

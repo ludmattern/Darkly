@@ -78,3 +78,7 @@ grep -R --text "flag" "$OUT" || true
 * OWASP **A05:2021 – Security Misconfiguration**
 * CWE‑548: **Information Exposure Through Directory Listing**
 * CWE‑200: **Exposure of Sensitive Information to an Unauthorized Actor**
+
+--- 
+## See also
+**index** → [here](/README.md)

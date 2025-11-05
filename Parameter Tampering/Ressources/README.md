@@ -68,3 +68,7 @@ curl -i -X POST 'http://127.0.0.1:8080/?page=survey' \
 * CWE‑20: **Improper Input Validation**
 * CWE‑472: **External Control of Assumed‑Immutable Web Parameter**
 * (context) CWE‑602: **Client‑Side Enforcement of Server‑Side Security**
+
+--- 
+## See also
+**index** → [here](/README.md)

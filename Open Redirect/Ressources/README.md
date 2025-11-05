@@ -67,3 +67,7 @@ b9e775a0291fed784a2d9680fcfad7edd6b8cdf87648da647aaf4bba288bcab3
 
 * OWASP Cheat Sheet: **Unvalidated Redirects and Forwards**
 * CWE‑601: **URL Redirection to Untrusted Site ('Open Redirect')**
+
+--- 
+## See also
+**index** → [here](/README.md)
