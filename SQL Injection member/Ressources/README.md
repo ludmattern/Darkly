@@ -79,7 +79,7 @@ user_id,first_name,last_name,town,country,planet,Commentaire,countersign
 7. **Ciphertext decryption**
 
 ```
-5ff9d0165b4f92b14994e5c685cdce28 -> (decypher SHA-256) FortyTwo -> (lowercase) fortytwo -> (cypher SHA-256) 10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5
+5ff9d0165b4f92b14994e5c685cdce28 -> (decypher md5) FortyTwo -> (lowercase) fortytwo -> (cypher SHA-256) 10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5
 ```
 ---
 
